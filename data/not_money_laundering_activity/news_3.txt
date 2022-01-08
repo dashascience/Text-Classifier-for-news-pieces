@@ -1,0 +1,24 @@
+Proposed changes to EU law would force companies that transfer Bitcoin or other crypto-assets to collect details on the recipient and sender.
+
+The proposals would make crypto-assets more traceable, the EU Commission said, and would help stop money-laundering and the financing of terrorism.
+
+The new rules would also prohibit providing anonymous crypto-asset wallets.
+
+The proposals could take two years to become law.
+
+The Commission argued that crypto-asset transfers should be subject to the same anti-money-laundering rules as wire transfers.
+
+"Given that virtual assets transfers are subject to similar money-laundering and terrorist-financing risks as wire funds transfers... it therefore appears logical to use the same legislative instrument to address these common issues," the Commission wrote.
+
+While some crypto-asset service providers are already covered by anti-money-laundering rules, the new proposals would "extend these rules to the entire crypto-sector, obliging all service providers to conduct due diligence on their customers," the Commission explained.
+
+Under the proposals, a company transferring crypto-assets for a customer would be obliged to include their name, address, date of birth and account number, and the name of the recipient.
+
+David Gerard, author of Attack of the 50 Foot Blockchain, told the BBC: "This is just applying existing rules to crypto. This has been coming since 2019."
+
+He said that although these were European proposals their impact would reach much further.
+
+"If you want to make real money, you have to follow the rules of real money," he said.
+
+To become law the proposals will need the agreement of member states and the European Parliament.
+
