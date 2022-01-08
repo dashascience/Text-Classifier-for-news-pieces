@@ -178,7 +178,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "#### Uczenie sieci neuronowej without splitting to train/test/val dataset, because we have not enouhg source data"
+    "#### Model Training without splitting to train/test/val dataset, because we have not enouhg source data"
    ]
   },
   {
